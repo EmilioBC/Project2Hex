@@ -1,0 +1,40 @@
+body {
+    background-color: lightskyblue;
+    /* text-align: center; */
+}
+/* h1.present {
+    text-align: center; */
+/* } */
+div.box {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: ivory;
+    margin: 100px 50px 100px 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input.messageBox {
+    width: 95%;
+    padding: 20px 0px;
+}
+
+button {
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    background-color:rgb(74, 120, 148);
+    padding: 10px 10px;
+    border-color: lightblue;
+    border-width: 5px;
+}
+
+p.messages {
+    color:red;
+}
+
+li {
+    color:green;
+    font-size: 50px;
+    list-style: none;
+}
