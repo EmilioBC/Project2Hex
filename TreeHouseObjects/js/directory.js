@@ -13,7 +13,7 @@
 
 // document.querySelector('main').insertAdjacentHTML('beforeend', html);
 
-let html = '';
+let html = '';  
 
 for(let i = 0; i < pets.length; i++) {
     let pet = pets[i];
